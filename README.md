@@ -9,7 +9,8 @@ This is a simple temperature converter application that allows you to convert te
 - Uses icons for each temperature unit for better visualization.
 - Includes a button to clear all input fields at once.
 
-![image](https://github.com/RutuKhatal-04/Temperature-Converter/assets/163152502/e73e7939-ab0d-4219-8d86-069364a0fe21)
+![image](https://github.com/RutuKhatal-04/Temperature-Converter/assets/163152502/2e4bab36-37ac-4907-8263-944b68833fda)
+
 
 
 ## Usage
